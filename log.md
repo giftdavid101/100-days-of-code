@@ -1,22 +1,21 @@
 # 100 Days Of Code - Log
 
-### Day 0: October 1st, 2020 (Example 1)
+### Day 0: October 1st, 2020 
 
 
-**Today's Progress**: Today I solved an algorithm challenge on LeetCode.
+**Today's Progress**: Today I solved an algorithm challenge on LeetCode and I created a repository on github to build a tourism site.
 
 **Thoughts:** I used Javascript to solve it .
 
 **Link to work:** [Two Sum - LeetCode] (https://leetcode.com/problems/two-sum/submissions/      #100DaysOfCode )  
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: October 2, 2020 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Created a navigation bar on the tourism site Ladige.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: I had to read about usestate in react to work with it
+**Link(s) to work**: [La Digue](http://www.example.com)
 
 
 ### Day 1: June 27, Monday
