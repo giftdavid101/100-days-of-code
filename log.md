@@ -23,6 +23,7 @@
 **Today's Progress**: Solved a challenge on codewars.
 
 **Thoughts**: Tho it took me a lot of time to solve it because i've not totally gotten confidence in solving algorithms
+
 **Link(s) to work**: [Sort array by string length](https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c/train/javascript)
 
 ### Day 1: June 27, Monday
