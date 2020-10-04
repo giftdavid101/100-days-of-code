@@ -26,6 +26,15 @@
 
 **Link(s) to work**: [Sort array by string length](https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c/train/javascript)
 
+### Day 3: October 4, 2020 
+
+
+**Today's Progress**: Today I had to create components for my website. Installed React Router Dom.
+
+**Thoughts**: I read about React-Router-Dom.
+
+**Link(s) to work**: [La Digue]()
+
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
