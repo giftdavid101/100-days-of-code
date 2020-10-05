@@ -35,6 +35,14 @@
 
 **Link(s) to work**: [La Digue]()
 
+### Day 4: October 5, 2020 
+
+
+**Today's Progress**: Today I had to Code a left over project. Wrote the mobile view.
+
+
+**Link(s) to work**: [Wine Shop](thewinestore-giftdavid.netlify.app)
+
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
