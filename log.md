@@ -43,6 +43,15 @@
 
 **Link(s) to work**: [Wine Shop](thewinestore-giftdavid.netlify.app)
 
+
+## Day 5: October 6, 2020 
+
+**Today's Progress**: Today I learnt about Bezier Curve in Css.
+
+**Link(s) to work**: [Freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/learn-how-bezier-curves-work)
+
+
+
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
