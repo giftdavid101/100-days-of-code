@@ -51,6 +51,15 @@
 **Link(s) to work**: [Freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/learn-how-bezier-curves-work)
 
 
+## Day 6: October 7, 2020 
+
+**Today's Progress**: I built a simple Dice Game today. 
+
+**Link(s) to work**: [On my PC](yet to be hosted)
+
+
+
+
 
 ### Day 1: June 27, Monday
 
