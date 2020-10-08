@@ -58,6 +58,12 @@
 **Link(s) to work**: [On my PC](yet to be hosted)
 
 
+## Day 7: October 8, 2020 
+
+**Today's Progress**: Web accessibility on freecodecamp. Completed all the coding exercises 
+
+**Link(s) to work**: [FreeCodeCamp](https://www.freecodecamp.org/learn)
+
 
 
 
