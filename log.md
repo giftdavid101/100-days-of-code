@@ -37,7 +37,6 @@
 
 ### Day 4: October 5, 2020 
 
-
 **Today's Progress**: Today I had to Code a left over project. Wrote the mobile view.
 
 
@@ -65,6 +64,24 @@
 **Link(s) to work**: [FreeCodeCamp](https://www.freecodecamp.org/learn)
 
 
+### Day 8: October 9, 2020 
+
+
+**Today's Progress**: Today I had to spend my day solving only algorithms. 
+
+
+
+
+### Day 3: October 4, 2020 
+
+
+**Today's Progress**: Today I had to create components for my website. Installed React Router Dom.
+
+**Thoughts**: I read about React-Router-Dom.
+
+**Link(s) to work**: [La Digue]()
+
+### Day 4: October 5, 2020 
 
 
 ### Day 1: June 27, Monday
