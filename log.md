@@ -70,6 +70,15 @@
 **Today's Progress**: Today I had to spend my day solving only algorithms. 
 
 
+### Day 9: October 10, 2020 
+
+
+**Today's Progress**: Today I learnt useState and employed them in my codes.
+
+**Thoughts**: I read about React-Router-Dom.
+
+**Link(s) to work**: [La Digue]()
+
 
 
 ### Day 3: October 4, 2020 
