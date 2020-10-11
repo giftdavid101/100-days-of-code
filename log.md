@@ -80,6 +80,11 @@
 **Link(s) to work**: [La Digue]()
 
 
+### Day 10: October 11, 2020 
+
+**Today's Progress**: I completed flexbox tutorials on freecodecamp.
+
+**Link(s) to work**: [Freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/css-grid)
 
 ### Day 3: October 4, 2020 
 
@@ -90,9 +95,9 @@
 
 **Link(s) to work**: [La Digue]()
 
-### Day 4: October 5, 2020 
-
-
+### Day 10: October 11, 2020 
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+https://www.freecodecamp.org/learn/responsive-web-design/css-grid
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
