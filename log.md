@@ -86,18 +86,21 @@
 
 **Link(s) to work**: [Freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/css-grid)
 
-### Day 3: October 4, 2020 
-
-
-**Today's Progress**: Today I had to create components for my website. Installed React Router Dom.
-
-**Thoughts**: I read about React-Router-Dom.
-
-**Link(s) to work**: [La Digue]()
 
 ### Day 10: October 11, 2020 
+**Today's Progress**: I've completed the codes on the link below.
+
+**Link(s) to work**: (https://www.freecodecamp.org/learn/responsive-web-design/css-grid)
+
+
+### Day 1: June 27, Monday
+
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-https://www.freecodecamp.org/learn/responsive-web-design/css-grid
+
+**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
+**Link(s) to work**
+
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
