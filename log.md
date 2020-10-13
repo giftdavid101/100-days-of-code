@@ -93,7 +93,7 @@
 **Link(s) to work**: (https://www.freecodecamp.org/learn/responsive-web-design/css-grid)
 
 
-### Day 1: June 27, Monday
+### Day 12: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
