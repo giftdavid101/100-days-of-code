@@ -87,19 +87,26 @@
 **Link(s) to work**: [Freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/css-grid)
 
 
-### Day 10: October 11, 2020 
+### Day 10: October 12, 2020 
 **Today's Progress**: I've completed the codes on the link below.
 
 **Link(s) to work**: (https://www.freecodecamp.org/learn/responsive-web-design/css-grid)
 
 
-### Day 12: June 27, Monday
+### Day 12: October 13, Tuesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've gone through my exercises on FreeCodeCamp.
 
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
-**Link(s) to work**
+**Link(s) to work** [freecodecamp](https://codepen.io/giftdavid101/pen/NWrGZda)
+
+
+
+### Day 13: October 14, Wednesday
+
+**Today's Progress** : I completed a Tribute page on Codepen
+**Link(s) to work** 
 
 ### Day 1: June 27, Monday
 
