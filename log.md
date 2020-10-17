@@ -105,8 +105,15 @@
 
 ### Day 13: October 14, Wednesday
 
+**Today's Progress** : ive been stuck with pagenation and i endedup writing the logic for this yesterday
+**Link(s) to work** 
+
+
+### Day 16: October 17, Saturday
+
 **Today's Progress** : I completed a Tribute page on Codepen
 **Link(s) to work** 
+
 
 ### Day 1: June 27, Monday
 
