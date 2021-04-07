@@ -113,12 +113,11 @@
 **Link(s) to work** 
 
 
-### Day 1:April 4th, Wednesday
+### Day 1:April 7th, Wednesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**:Working on a Food website and i created my navbar component an home page too.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** It feels great to be working on this project.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Navbar still in progress](https://github.com/giftdavid101/foodHub/pull/1)
