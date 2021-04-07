@@ -113,7 +113,7 @@
 **Link(s) to work** 
 
 
-### Day 1: June 27, Monday
+### Day 1:April 4th, Wednesday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
