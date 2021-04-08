@@ -125,5 +125,6 @@
 ### Day 2: April 8th, Thursday
 
 **Today's Progress** : I worked on the Hero page of my project creating search bar, text component, aligning images with positioning.
+
 **Thoughts** I had difficulty in using positioning to align images on my Hero page top section.
  1. [Working on Homepage and still in progress](https://github.com/giftdavid101/foodHub/pull/2)
