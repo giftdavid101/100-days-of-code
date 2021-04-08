@@ -121,3 +121,9 @@
 
 **Link(s) to work**
 1. [Navbar still in progress](https://github.com/giftdavid101/foodHub/pull/1)
+
+### Day 2: April 8th, Thursday
+
+**Today's Progress** : I worked on the Hero page of my project.
+**Thoughts** I had difficulty in using positioning to align images on my Hero page top section.
+1. [Homepage still in progress](https://github.com/giftdavid101/foodHub/pull/2)
