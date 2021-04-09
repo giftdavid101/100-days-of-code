@@ -133,5 +133,5 @@
 
 **Today's Progres** : Restyled myy Hero page topmost section created a location component and an arrow component
 **Thoughts** I had No difficulty today everything went fine and my UI results looks so dope
-[Finished the Top Section Hero Page] (https://github.com/giftdavid101/foodHub/pull/3)
+[Finished the Top Section Hero Page](https://github.com/giftdavid101/foodHub/pull/3)
 
