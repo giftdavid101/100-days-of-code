@@ -128,3 +128,10 @@
 
 **Thoughts** I had difficulty in using positioning to align images on my Hero page top section.
  1. [Working on Homepage and still in progress](https://github.com/giftdavid101/foodHub/pull/2)
+
+### Day 3: April 9th, Friday
+
+**Today's Progres** : Restyled myy Hero page topmost section created a location component and an arrow component
+**Thoughts** I had No difficulty today everything went fine and my UI results looks so dope
+[Finished the Top Section Hero Page] (https://github.com/giftdavid101/foodHub/pull/3)
+
