@@ -136,3 +136,11 @@
 
 [Finished the Top Section Hero Page](https://github.com/giftdavid101/foodHub/pull/3)
 
+### Day 4: April 10, Saturday
+
+**Today's Progress** : Created a Card component and button component
+
+**Thoughts** I love that i was able to the part of this UI even tho its a bit complicated  for me
+
+[Finished the Second Section of my Hero Page UI] (https://github.com/giftdavid101/foodHub/pull/4)
+
