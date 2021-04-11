@@ -144,3 +144,11 @@
 
 [Finished the Second Section of my Hero Page UI] (https://github.com/giftdavid101/foodHub/pull/4)
 
+### Day 5: April 11, Sunday
+
+**Today's Progress** : Algorithm solved
+
+**Thoughts** Javascript
+
+[Bit counting](https://www.codewars.com/kata/526571aae218b8ee490006f4/solutions/javascript)
+
