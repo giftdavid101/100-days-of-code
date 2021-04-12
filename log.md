@@ -152,3 +152,12 @@
 
 [Bit counting](https://www.codewars.com/kata/526571aae218b8ee490006f4/solutions/javascript)
 
+### Day 6: April 12, Monday
+
+**Today's Progress** : Algorithm solved
+
+**Thoughts** Javascript
+
+[Sum of two lowest positive integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014/solutions/javascript)
+
+
