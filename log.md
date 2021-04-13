@@ -160,4 +160,10 @@
 
 [Sum of two lowest positive integers](https://www.codewars.com/kata/558fc85d8fd1938afb000014/solutions/javascript)
 
+### Day 7: April 13, Tuesday
+**Today's Progress** : Updated the second section of my HeroPage (FoodHub)
+**Thoughts** : Styling isnt as easy as you think
+
+[Second section of my HeroPage](https://github.com/giftdavid101/foodHub/pull/6)
+
 
