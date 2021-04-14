@@ -166,4 +166,11 @@
 
 [Second section of my HeroPage](https://github.com/giftdavid101/foodHub/pull/6)
 
+### Day 8: April 14, Wednesday
+
+**Today's Progress** : Proper styling with scss
+
+**Thought**: nil
+[SecondSectionComponent](https://github.com/giftdavid101/foodHub/compare/main...gift)
+
 
