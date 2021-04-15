@@ -171,6 +171,13 @@
 **Today's Progress** : Proper styling with scss
 
 **Thought**: nil
+
 [SecondSectionComponent](https://github.com/giftdavid101/foodHub/compare/main...gift)
+
+### Day 9: April 15, Thursday
+
+**Today's Progress** : Mobile responsiveness for the second sectio of my hero page
+
+**Thought**: It wasnt difficult
 
 
