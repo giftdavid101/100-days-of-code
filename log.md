@@ -180,4 +180,6 @@
 
 **Thought**: It wasnt difficult
 
+[mobile responsiveness for my secondsection heropage](https://github.com/giftdavid101/foodHub/pull/7)
+
 
