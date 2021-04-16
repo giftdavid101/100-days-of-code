@@ -183,3 +183,12 @@
 [mobile responsiveness for my secondsection heropage](https://github.com/giftdavid101/foodHub/pull/7)
 
 
+### Day 9: April 16, Friday
+
+**Today's Progress** : Third section proper styling
+
+**Thoughts**: nil
+
+[Proper styling for my thirdsection heropage](https://github.com/giftdavid101/foodHub/pull/8)
+
+
