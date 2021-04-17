@@ -191,4 +191,12 @@
 
 [Proper styling for my thirdsection heropage](https://github.com/giftdavid101/foodHub/pull/8)
 
+### Day 11: April 17, Saturday
+
+**Today's Progress** : Fourth section proper styling
+
+**Thoughts**: nil
+
+[Proper styling of the fourth section of my project homepage](https://github.com/giftdavid101/foodHub/pull/9)
+
 
