@@ -199,4 +199,12 @@
 
 [Proper styling of the fourth section of my project homepage](https://github.com/giftdavid101/foodHub/pull/9)
 
+### Day 12: April 18, Sunday
+
+**Today's Progress** : Fifth section  component
+
+**Thoughts**: nil
+
+[Created a Fifth section component](https://github.com/giftdavid101/foodHub/pull/10)
+
 
