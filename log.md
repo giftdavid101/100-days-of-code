@@ -207,7 +207,7 @@
 
 [Created a Fifth section component](https://github.com/giftdavid101/foodHub/pull/10)
 
-### Day 12, April 19, Monday
+### Day 13, April 19, Monday
 
 **Today's Progress** : Fifth section component mobile responsiveness
 
