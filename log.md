@@ -207,4 +207,12 @@
 
 [Created a Fifth section component](https://github.com/giftdavid101/foodHub/pull/10)
 
+### Day 12, April 19, Monday
+
+**Today's Progress** : Fifth section component mobile responsiveness
+
+**Thoughts** : I am so happy I was able to use grid well today. 
+
+[mobile responsiveness for fifth section](https://github.com/giftdavid101/foodHub/pull/11)
+
 
