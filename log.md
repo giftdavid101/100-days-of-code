@@ -216,3 +216,12 @@
 [mobile responsiveness for fifth section](https://github.com/giftdavid101/foodHub/pull/11)
 
 
+### Day 14, April 20, Tuesday
+
+**Today's Progress** : sixth section component mobile responsiveness
+
+**Thoughts** : nil. 
+
+[sixth section component created and moile responsive too](https://github.com/giftdavid101/foodHub/pull/12)
+
+
