@@ -225,3 +225,13 @@
 [sixth section component created and moile responsive too](https://github.com/giftdavid101/foodHub/pull/12)
 
 
+
+### Day 15, April 21, Wednesday
+
+**Today's Progress** : sixth section component mobile responsiveness
+
+**Thoughts** : nil. 
+
+[Footer section completed](https://github.com/giftdavid101/foodHub/pull/13)
+
+
