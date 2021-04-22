@@ -235,3 +235,11 @@
 [Footer section completed](https://github.com/giftdavid101/foodHub/pull/13)
 
 
+### Day 16, April 22 Thursday
+
+**Today's Progress** : proper styling
+
+**Thoughts** : nil. 
+[Just proper styling again](https://github.com/giftdavid101/foodHub)
+
+
