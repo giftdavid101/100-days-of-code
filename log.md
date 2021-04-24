@@ -242,4 +242,12 @@
 **Thoughts** : nil. 
 [Just proper styling again](https://github.com/giftdavid101/foodHub)
 
+### Day 18, April 24 Thursday
+
+**Today's Progress** : Binary addition
+
+**Thoughts** : nil. 
+
+[Binary addition](https://www.codewars.com/kata/551f37452ff852b7bd000139/solutions/javascript)
+
 
