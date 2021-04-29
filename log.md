@@ -250,4 +250,12 @@
 
 [Binary addition](https://www.codewars.com/kata/551f37452ff852b7bd000139/solutions/javascript)
 
+### Day 22, April 29 Thursday
+
+ **Today's Progress** : Clean code
+
+**Thoughts** : nil. 
+
+[FoodHub](https://foodhub-gift-david.netlify.app/)
+
 
