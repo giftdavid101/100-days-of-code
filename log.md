@@ -259,3 +259,11 @@
 [FoodHub](https://foodhub-gift-david.netlify.app/)
 
 
+### Day 23, April 30 Friday
+
+ **Today's Progress** : Regular Expression
+
+**Thoughts** : nil. 
+[Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions)
+
+
