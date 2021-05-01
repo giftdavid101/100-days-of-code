@@ -266,4 +266,11 @@
 **Thoughts** : nil. 
 [Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions)
 
+### Day 24, May 1 Saturday
+
+ **Today's Progress** : Debugging
+
+**Thoughts** : nil. 
+[Debugging](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#debugging)
+
 
