@@ -274,3 +274,12 @@
 [Debugging](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#debugging)
 
 
+### Day 45, May 5 Sunday
+
+ **Today's Progress** : Added redux to my weather app
+
+**Thoughts** : nil. 
+
+[Redux](https://github.com/giftdavid101/Weather-App/pull/1)
+
+
