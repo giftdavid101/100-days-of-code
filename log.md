@@ -282,4 +282,10 @@
 
 [Redux](https://github.com/giftdavid101/Weather-App/pull/1)
 
+### Day 49, May 27 Thursday
+
+ **Today's Progress** :Freecodecamp Data structures
+
+**Thoughts** : nil. 
+[Data structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures)
 
